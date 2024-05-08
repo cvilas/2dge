@@ -9,7 +9,7 @@ This repo contains my project files for Pikuma's [C++ Game Engine Programming Co
 - Install system dependencies
 
 ```bash
-sudo apt install build-essential libsdl2-dev libsdl2-image-dev libsdl2-ttf-dev libsdl2-mixer-dev liblua5.3-dev libglm-dev cmake 
+sudo apt install build-essential libsdl2-dev libsdl2-image-dev libsdl2-ttf-dev libsdl2-mixer-dev liblua5.4-dev libglm-dev cmake
 ```
 
 - Install compiler that supports C++23
